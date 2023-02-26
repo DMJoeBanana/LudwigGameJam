@@ -6,4 +6,4 @@ Thank you for checking out my game!
 
 I worked on this project completely solo, but a huge shoutout to Shaun Spalding as his guides helped me overcome many hurdles! Check him out at https://www.youtube.com/@ShaunJS
 
->>> Please consider following me at twitch.tv/DMJoeBanana!! <<<
+Please consider following me at twitch.tv/DMJoeBanana!!!
